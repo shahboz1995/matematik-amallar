@@ -1,0 +1,86 @@
+body {
+  background-color: #333232;
+}
+#container {
+  background-color: #0e2431;
+  border: 5px solid #f5e4c3;
+  height: 275px;
+  width: 750px;
+  margin: auto;
+  text-align: center;
+}
+p {
+  color: #fff;
+  font-size: 24px;
+}
+#outputtext {
+  width: 80%;
+  height: 50px;
+  margin: 25px auto;
+}
+#multiply {
+  margin: 25px 5px;
+  width: 100px;
+  height: 30px;
+  background-color: #fff;
+}
+:hover #multiply {
+  width: 120px;
+  height: 30px;
+  background-color: blue;
+  color: #fff;
+}
+#divideply {
+  margin: 25px 5px;
+  width: 100px;
+  height: 30px;
+  background-color: #fff;
+}
+:hover #divideply {
+  width: 120px;
+  height: 30px;
+  background-color: blue;
+  color: #fff;
+}
+#multiplyn {
+  margin: 25px 5px;
+  width: 100px;
+  height: 30px;
+  background-color: #fff;
+}
+:hover #multiplyn {
+  width: 120px;
+  height: 30px;
+  background-color: blue;
+  color: #fff;
+}
+
+#multiplyBtn {
+  margin: 25px 5px;
+  width: 100px;
+  height: 30px;
+  background-color: #fff;
+}
+#firstNumber {
+  margin: 25px;
+}
+:hover #multiplyBtn {
+  width: 120px;
+  height: 30px;
+  background-color: blue;
+  color: #fff;
+}
+#divideBtn {
+  width: 100px;
+  height: 30px;
+  background-color: #fff;
+}
+:hover #divideBtn {
+  width: 120px;
+  height: 30px;
+  background-color: blue;
+  color: #fff;
+}
+#outputtext {
+  color: #fff;
+}
